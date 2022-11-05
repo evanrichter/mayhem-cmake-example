@@ -1,0 +1,5 @@
+project: cmake-example
+target: fuzzme
+
+cmds:
+	- cmd: /fuzzme
