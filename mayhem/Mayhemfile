@@ -2,4 +2,4 @@ project: cmake-example
 target: fuzzme
 
 cmds:
-	- cmd: /fuzzme
+  - cmd: /fuzzme
